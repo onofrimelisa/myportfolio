@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v5.1.8 (https://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
@@ -640,8 +640,7 @@ pre code {
 .no-gutters>.col,
 .no-gutters>[class*=col-] {
     padding-right: 0;
-    padding-left: 0;
-    height: 300px;
+    padding-left: 0
 }
 
 .col,
@@ -9891,7 +9890,7 @@ hr.light {
 }
 
 .page-section {
-    padding: 5rem 0
+    padding: 4rem 0
 }
 
 #mainNav {
@@ -9978,7 +9977,7 @@ header.masthead h1 {
 
 @media (min-width:992px) {
     header.masthead {
-        height: 110vh;
+        height: 100vh;
         min-height: 40rem;
         padding-top: 72px;
         padding-bottom: 0
@@ -10003,8 +10002,7 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box {
     position: relative;
-    display: block;
-    height: 300px;
+    display: block
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption {
