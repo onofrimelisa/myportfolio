@@ -10002,8 +10002,7 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box {
     position: relative;
-    display: block;
-    height: 350px;
+    display: block
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption {
