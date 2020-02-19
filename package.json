@@ -3,7 +3,8 @@
     "name": "startbootstrap-creative",
     "version": "5.1.8",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build": "gh-pages -d ./"
     },
     "description": "Creative is a stylish one page HTML theme for Bootstrap.",
     "keywords": [
@@ -14,7 +15,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://onofrimelisa.github.io/myportfolio",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
         "email": "feedback@startbootstrap.com"
@@ -31,6 +32,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
+        "gh-pages": "^2.2.0",
         "jquery": "3.4.1",
         "jquery.easing": "^1.4.1",
         "magnific-popup": "^1.1.0"
