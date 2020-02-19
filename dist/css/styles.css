@@ -5,6 +5,13 @@ section#tecnologias {
 
 section#about {
     padding-bottom: 0px;
+    padding-top: 50px !important;
+    margin-top: 20px;
+}
+
+section#contact {
+    padding-bottom: 50px !important;
+    padding-top: 50px !important;
     margin-top: 20px;
 }
 
