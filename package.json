@@ -15,9 +15,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://onofrimelisa.github.io/startbootstrap-creative",
+    "homepage": "https://onofrimelisa.github.io/myportfolio",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
+        "url": "https://github.com/BlackrockDigital/myportfolio/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -27,7 +27,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/BlackrockDigital/myportfolio.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
